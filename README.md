@@ -1,2 +1,1 @@
-# Pandoria
-text to image story generator website
+# ai-storyteller
